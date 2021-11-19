@@ -1,0 +1,8 @@
+#ide folders
+.vscode
+.obsidian
+
+#note folders
+templates
+Personal
+.vault-stats
